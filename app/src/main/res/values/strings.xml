@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gesture Controller</string>
+    <string name="accessibility_desc">Kamera tabanlı el hareketleriyle telefonu kontrol etmenizi sağlar. Geri, Ana Ekran, Son Uygulamalar ve Ses kontrollerini kolayca tetikler.</string>
+</resources>

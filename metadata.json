@@ -1,0 +1,6 @@
+{
+  "name": "Gesture Controller",
+  "description": "Kamerayla parmak hareketlerini tanıyıp telefonu kontrol eden, düşük gecikme süreli, arka planda çalışan ve özelleştirilebilir bir yardımcı uygulama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
